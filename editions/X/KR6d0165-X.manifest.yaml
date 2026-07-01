@@ -1,0 +1,174 @@
+canonical_identifier: bkk:krp/KR6d0165/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0165/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十不二門指要鈔詳解
+  identifiers:
+    krp: KR6d0165
+    cbeta: X56n0931
+    cbeta_old_id: X56n0931
+    authorityid: CA0003037
+    json_key: X0931
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0931.xml
+    old_id: X56n0931
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0165_000-X.yaml, hash: 'sha256:ba650b0348f5f24423b86d46183cd260bfde45431cc3b6d3b02978dd272aec27'}
+  - {seq: 2, filename: KR6d0165_002-X.yaml, hash: 'sha256:9978e840e446aa78f3c57302d3c9f29251ad5f7856a1a03b19c476c73dfb736b'}
+  - {seq: 3, filename: KR6d0165_003-X.yaml, hash: 'sha256:7a61c18a9273903cf6339840751a841193090eb9a93f56db3998785e73279d85'}
+  - {seq: 4, filename: KR6d0165_004-X.yaml, hash: 'sha256:109005c138517de855cd3ebc2dde1092ca62f0e5f3059bfcc53aa1f94abd526a'}
+  - {seq: 5, filename: KR6d0165_005-X.yaml, hash: 'sha256:f1ce507f3e7c76f99d0414d2fc4caf37abe0cdf20fe4bf2b557e9d997e944c62'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0165_000-X.markers.yaml, hash: 'sha256:e444198ac1d6bc1cc804fdf0205a12f85067d5aa9207340655ccb48e6a2b7d47'}
+  - {seq: 2, role: markers, filename: assets/KR6d0165_002-X.markers.yaml, hash: 'sha256:dc9c9e93fadb508753c659c9b0d7b482493e5df8b23770c6aef1e99edd2b0847'}
+  - {seq: 3, role: markers, filename: assets/KR6d0165_003-X.markers.yaml, hash: 'sha256:cdf2ac094e933f98c02b799a4dc5b45fb3af344a4b30d70da9406e1d57ab5c9b'}
+  - {seq: 4, role: markers, filename: assets/KR6d0165_004-X.markers.yaml, hash: 'sha256:cd71c97591cccf81b819cec02cbc75730481e2113df993bc42afb53bb05938c1'}
+  - {seq: 5, role: markers, filename: assets/KR6d0165_005-X.markers.yaml, hash: 'sha256:89aaea88dc50b93e05206779c8a87a43ba6f9d47e227cd2dae243c2679831f24'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 931-A 重刻十不二門指要鈔詳解引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-2
+    span:
+    - front
+    - 188
+    - 188
+  label: 重刻十不二門指要鈔詳解凡例(九條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-3
+    span:
+    - front
+    - 500
+    - 500
+  label: No. 931-B 合刻十不二門指要鈔詳解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-4
+    span:
+    - front
+    - 759
+    - 759
+  label: No. 931-C 十不二門指要鈔詳解總序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-5
+    span:
+    - front
+    - 1478
+    - 1478
+  label: No. 931-D 十不二門指要鈔科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-6
+    span:
+    - front
+    - 2692
+    - 2692
+  label: 十不二門
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-7
+    span:
+    - front
+    - 2696
+    - 2696
+  label: 本迹二十重玅
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0165_X_000-mulu-8
+    span:
+    - front
+    - 2702
+    - 2702
+  label: 十不二門指要鈔序詳解
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0165_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 27968
+  label: 十不二門指要鈔詳解卷上本
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0165_X_1a-mulu-1
+    span:
+    - body
+    - 31
+    - 31
+  label: 十不二門指要鈔詳解
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0165_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 24405
+  label: 十不二門指要鈔詳解卷上末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0165_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 28946
+  label: 十不二門指要鈔詳解卷下本
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0165_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 21881
+  label: 十不二門指要鈔詳解卷下末
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0165_X_2b-mulu-1
+    span:
+    - body
+    - 21627
+    - 21627
+  label: No. 931-E 合刻十不二門指要鈔詳解䟦
+  type: mulu
+  level: 1
+hash: sha256:ebe1ec23975f40e5e70a1e763e4574e96882501a46b0958461bb9e418dd830bf
