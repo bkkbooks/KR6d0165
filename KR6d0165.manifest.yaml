@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0165_000.yaml, hash: 'sha256:6318014149da1ec9bb39f299f7d2a6e6b353c954c19e3fcae9f5a6c154995c4d'}
-  - {seq: 2, filename: KR6d0165_002.yaml, hash: 'sha256:0d3608ee5888ba682a9d94895b2fa24e046bf538390da21180c5a215c67bcc0e'}
-  - {seq: 3, filename: KR6d0165_003.yaml, hash: 'sha256:5e9452d4f624e5851ddb4efb19ed37942ce09baeb8f87160e7f93b599a952109'}
-  - {seq: 4, filename: KR6d0165_004.yaml, hash: 'sha256:366fe20b74e5f0e8341fdb16b6b9f7738aad8bcb8e7b0bb23a98d1323ad2b2fd'}
-  - {seq: 5, filename: KR6d0165_005.yaml, hash: 'sha256:8665f7b1b3c142b651a3adb3b11ab71a944f990934577026e221be66fff52b2c'}
+  - {seq: 0, filename: KR6d0165_000.yaml, hash: 'sha256:ba650b0348f5f24423b86d46183cd260bfde45431cc3b6d3b02978dd272aec27'}
+  - {seq: 2, filename: KR6d0165_002.yaml, hash: 'sha256:9978e840e446aa78f3c57302d3c9f29251ad5f7856a1a03b19c476c73dfb736b'}
+  - {seq: 3, filename: KR6d0165_003.yaml, hash: 'sha256:7a61c18a9273903cf6339840751a841193090eb9a93f56db3998785e73279d85'}
+  - {seq: 4, filename: KR6d0165_004.yaml, hash: 'sha256:109005c138517de855cd3ebc2dde1092ca62f0e5f3059bfcc53aa1f94abd526a'}
+  - {seq: 5, filename: KR6d0165_005.yaml, hash: 'sha256:f1ce507f3e7c76f99d0414d2fc4caf37abe0cdf20fe4bf2b557e9d997e944c62'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0165_000.markers.yaml, hash: 'sha256:99e529412bf9e8b2c90e3e65414c83bb2f2571a4622c1118940dbcb848133a29'}
-  - {seq: 2, role: markers, filename: assets/KR6d0165_002.markers.yaml, hash: 'sha256:6e891bbab7413e5b3eac5d45f20de5add7c47c03166abf5a7fbc6678dd723ad2'}
-  - {seq: 3, role: markers, filename: assets/KR6d0165_003.markers.yaml, hash: 'sha256:4047c9bd88231f2ecffd1e102788129a14f13901da99b2d1c59ed2eceda863c6'}
-  - {seq: 4, role: markers, filename: assets/KR6d0165_004.markers.yaml, hash: 'sha256:9bcd9a47f6c07bbccb1070f6eb313467646261fc4c5a9df8d1b21c6804efa0e1'}
-  - {seq: 5, role: markers, filename: assets/KR6d0165_005.markers.yaml, hash: 'sha256:d1d123aac03c42a393a43a17d39bd30f966ec53f6322a239f9f273101433dfcb'}
+  - {seq: 0, role: markers, filename: assets/KR6d0165_000.markers.yaml, hash: 'sha256:32646bd01133921f8b12f6f6ce98ddd9d6dac19ab92391b69e85c60b1e8058d5'}
+  - {seq: 2, role: markers, filename: assets/KR6d0165_002.markers.yaml, hash: 'sha256:64423a5a96cc91a803b94029d539a66c60a73edc2e491e28ada45a891fb8f60d'}
+  - {seq: 3, role: markers, filename: assets/KR6d0165_003.markers.yaml, hash: 'sha256:39aabef0ca11d2523e34ab38c3fce5125cf8aa3d16ebd7210a5b6a69a7542548'}
+  - {seq: 4, role: markers, filename: assets/KR6d0165_004.markers.yaml, hash: 'sha256:2396e3c1f589e76638b20f191ecbdecee09ec66d98abe15671bfaee526c7f987'}
+  - {seq: 5, role: markers, filename: assets/KR6d0165_005.markers.yaml, hash: 'sha256:e2c3968547f4834e9045f3278022c3d2e1b63a3f6b7c800ba90559f6a5b75b20'}
 table_of_contents:
 - ref:
     seq: 0
@@ -173,7 +173,4 @@ table_of_contents:
   label: No. 931-E 合刻十不二門指要鈔詳解䟦
   type: mulu
   level: 1
-hash: sha256:8f4a1c66078cc87053f000b1c08d975ffc74341fa5554336c9436e4111daafd4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9c7001663306ed958e24abc7245dbfe5a2da376f074ef83c6e5ac2dcc2618e43
